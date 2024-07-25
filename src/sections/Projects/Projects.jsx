@@ -45,7 +45,7 @@ function Projects() {
           src={getfarms}
           link="https://getfarms.in/"
           h3="GetFarms"
-          p="Dynamic React site"
+          p="Dynamic site"
         />
         <ProjectCard
           src={cityplots}
